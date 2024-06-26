@@ -154,9 +154,9 @@ print(numbers)
 Unordered collections of key-value pairs.
 ```python
 person = {
-    "name": "Alice",
+    "name": "Gomolemo",
     "age": 25,
-    "city": "New York"
+    "city": "South Africa"
 }
 print(person)
 
@@ -164,7 +164,7 @@ print(person)
 print(person["name"])
 
 # Adding a key-value pair
-person["email"] = "alice@example.com"
+person["email"] = "gomolemo@example.com"
 print(person)
 ```
 
